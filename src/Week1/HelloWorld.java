@@ -1,3 +1,5 @@
+package Week1;
+
 public class HelloWorld {
     public static void main(String[] args) {
 
@@ -9,7 +11,6 @@ public class HelloWorld {
 
         /**
         When you use the just print command at the and of "System.out.print" ,
-
          current line and next line will print in the same line.
          For example check line 6 and 7.
          */
